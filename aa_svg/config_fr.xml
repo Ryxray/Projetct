@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>aa_svg</name>
+    <displayName><![CDATA[Aality :: SVG]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Affichage des svg]]></description>
+    <author><![CDATA[Aality]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

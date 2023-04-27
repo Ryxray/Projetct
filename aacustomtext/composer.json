@@ -1,0 +1,21 @@
+{
+  "name": "aality/aacustomtext",
+  "authors": [
+    {
+      "name": "Rémi Marandon",
+      "email": "remi@aality.fr"
+    },
+    {
+      "name": "Aality SAS"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Aality\\CustomText\\": "src/"
+    },
+    "config": {
+      "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+  }
+}

@@ -1,0 +1,9 @@
+services:
+  # Command
+  Aality\CustomText\Command\ExempleCommand1:
+    class: Aality\CustomText\Command\ExempleCommand1Command
+    tags: [ console.command ]
+
+  Aality\CustomText\Command\ExempleCommand2:
+    class: Aality\CustomText\Command\ExempleCommand2Command
+    tags: [ console.command ]

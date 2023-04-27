@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g>
+        <path class="revert-color" d="M9,34H26.83v-9.34m0-11.03v-1.59L16.74,3H6V37" fill="none" stroke="#052d3a" stroke-miterlimit="10" stroke-width="1.6"/>
+        <polyline class="revert-color" points="16.74 3 16.74 12.04 26.83 12.04" fill="none" stroke="#052d3a" stroke-miterlimit="10" stroke-width="1.6"/>
+    </g>
+    <polygon points="26.83 13.63 29.05 18.01 34 18.71 30.42 22.12 31.26 26.93 26.83 24.66 22.41 26.93 23.25 22.12 19.67 18.71 24.62 18.01 26.83 13.63" fill="none" stroke="#dc3d4d" stroke-miterlimit="10" stroke-width="1.6"/>
+</svg>
